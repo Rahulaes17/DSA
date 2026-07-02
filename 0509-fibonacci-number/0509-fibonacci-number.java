@@ -1,8 +1,13 @@
 class Solution {
     public int fib(int n) {
         if(n<=1) return n;
-        int less1 = fib(n-1);
-        int less2 = fib(n-2);
-        return less1 + less2;
+       int[] series = new int[n+1];
+       series[0] = 0;
+       series[1] = 1;
+
+       for(int i=2; i<=n;i++){
+            series[i] = series[i-1] + series[i-2];
+       };
+       return series[n];
     }
 }
