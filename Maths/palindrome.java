@@ -1,4 +1,4 @@
-package Mathss;
+
 
 public class palindrome {
     public void drome(int n){

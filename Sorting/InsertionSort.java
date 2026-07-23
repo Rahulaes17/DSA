@@ -1,4 +1,3 @@
-package Sorting;
 
 class Solution{
     public int[] insertionSort(int[] nums){

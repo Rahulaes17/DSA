@@ -1,4 +1,3 @@
-package Mathss;
 
 public class armstrong {
     public void arm(int n){

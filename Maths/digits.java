@@ -1,4 +1,4 @@
-package Mathss;
+
  class Digits {
     public void digit(int n){
         int count=0;
