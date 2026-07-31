@@ -1,4 +1,4 @@
-package Mathss;
+
 
 public class reverse {
     public int rev(int n){
