@@ -36,6 +36,11 @@ class Solution {
 
         nums[nums.length - 1] = temp;
     }
+
+    public int[] rotateArray(int[] nums, int k, String direction) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'rotateArray'");
+    }
 }
 
 class Main {

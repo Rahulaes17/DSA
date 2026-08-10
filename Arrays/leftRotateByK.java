@@ -1,7 +1,7 @@
 package Arrays;
 import java.util.Arrays;
 
-public class leftRotateByK {
+/* public class leftRotateByK {
     public void rotateRight(int[] arr, int k) {
         int n = arr.length;
         if (n == 0) return;
@@ -49,6 +49,65 @@ public class leftRotateByK {
         sol.rotateLeft(arr2, k);
         System.out.println("Array after left rotation: " + Arrays.toString(arr2));
     }
+} */
+public class leftRotateByK {
+    void reverseArray(int[] nums, int start, int end) {
+        
+        while (start < end) {
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+            start++;
+            end--;
+        }
+    }
+
+    public int[] rotateArray(int[] nums, int k, String direction) {
+        
+        int n = nums.length;
+
+        if (n == 0 || k == 0) return nums;
+
+        k = k % n;
+
+        if (direction.equals("right")) {
+            
+            reverseArray(nums, 0, n - 1);
+
+            reverseArray(nums, 0, k - 1);
+
+            reverseArray(nums, k, n - 1);
+        } 
+        
+        else if (direction.equals("left")) {
+            
+            reverseArray(nums, 0, k - 1);
+
+            reverseArray(nums, k, n - 1);
+
+            reverseArray(nums, 0, n - 1);
+        }
+
+        return nums;
+    }
+
+public class Main {
+    public static void main(String[] args) {
+        
+        Solution sol = new Solution();
+
+        int[] nums = {1, 2, 3, 4, 5, 6, 7};
+        int k = 2;
+        String direction = "right";
+
+        int[] result = sol.rotateArray(nums, k, direction);
+
+    
+        for (int num : result) {
+            System.out.print(num + " ");
+        }
+    }
+}
 }
 
 
