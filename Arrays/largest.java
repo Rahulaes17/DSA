@@ -19,6 +19,11 @@ class Solution {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'solve'");
     }
+
+    public int[] rotateArray(int[] nums, int k, String direction) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'rotateArray'");
+    }
 }
 
 public class largest {
