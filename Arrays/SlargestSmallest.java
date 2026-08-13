@@ -1,5 +1,3 @@
-package Arrays;
-
 
 public class SlargestSmallest {
     public static int[] second(int[] arr){

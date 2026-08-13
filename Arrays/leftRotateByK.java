@@ -1,4 +1,4 @@
-package Arrays;
+
 
 /* public class leftRotateByK {
     public void rotateRight(int[] arr, int k) {

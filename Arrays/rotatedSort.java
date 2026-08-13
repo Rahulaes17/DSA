@@ -1,4 +1,3 @@
-package Arrays;
 
 public class rotatedSort {
     boolean isSorted(int[] nums) {

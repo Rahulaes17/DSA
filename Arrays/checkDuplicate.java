@@ -1,4 +1,3 @@
-package Arrays;
 
 public class checkDuplicate {
     public int duplicateCheck(int[] arr){

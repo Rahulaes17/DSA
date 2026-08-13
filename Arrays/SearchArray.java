@@ -1,4 +1,3 @@
-package Arrays;
 
 public class SearchArray {
     static int search(int[] arr, int n, int num) {

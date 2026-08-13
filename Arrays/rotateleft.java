@@ -1,4 +1,4 @@
-package Arrays;
+
 
 /*public class rotateleft {
      public static void solve(int[] arr, int n) {
