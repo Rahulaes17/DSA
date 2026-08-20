@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulaes17/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rahulaes17/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rahulaes17/DSA/tree/master/0217-contains-duplicate) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahulaes17/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahulaes17/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rahulaes17/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rahulaes17/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rahulaes17/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rahulaes17/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rahulaes17/DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
