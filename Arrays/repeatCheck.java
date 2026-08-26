@@ -1,4 +1,4 @@
-class Solution {
+/* class Solution {
     public int getSingleElement(int[] arr) {
         int n = arr.length;
 
@@ -23,6 +23,26 @@ class Solution {
         Solution obj = new Solution();
         int ans = obj.getSingleElement(arr);
 
+        System.out.println("The single element is: " + ans);
+    }
+}  */
+
+
+//Optimal approach 
+
+class Solution {
+    public int getSingleElement(int[] arr) {
+        int xorr = 0;
+        for (int num : arr) {
+            xorr ^= num;
+        }
+        return xorr;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {4, 1, 2, 1, 2};
+        Solution obj = new Solution();
+        int ans = obj.getSingleElement(arr);
         System.out.println("The single element is: " + ans);
     }
 }
