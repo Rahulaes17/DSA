@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rahulaes17/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rahulaes17/DSA/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Rahulaes17/DSA/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/Rahulaes17/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahulaes17/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahulaes17/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Rahulaes17/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rahulaes17/DSA/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Rahulaes17/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rahulaes17/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahulaes17/DSA/tree/master/0217-contains-duplicate) |
+| [0905-sort-array-by-parity](https://github.com/Rahulaes17/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
