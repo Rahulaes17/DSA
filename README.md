@@ -13,8 +13,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rahulaes17/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rahulaes17/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Rahulaes17/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Rahulaes17/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rahulaes17/DSA/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahulaes17/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/Rahulaes17/DSA/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/Rahulaes17/DSA/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/Rahulaes17/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Rahulaes17/DSA/tree/master/1089-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rahulaes17/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahulaes17/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahulaes17/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -35,19 +42,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Rahulaes17/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rahulaes17/DSA/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Rahulaes17/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Rahulaes17/DSA/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahulaes17/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rahulaes17/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahulaes17/DSA/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahulaes17/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rahulaes17/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahulaes17/DSA/tree/master/0217-contains-duplicate) |
+| [0905-sort-array-by-parity](https://github.com/Rahulaes17/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -65,4 +76,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rahulaes17/DSA/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Rahulaes17/DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Rahulaes17/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
