@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahulaes17/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahulaes17/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rahulaes17/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rahulaes17/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rahulaes17/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rahulaes17/DSA/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahulaes17/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rahulaes17/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
 | ------- |
