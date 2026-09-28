@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rahulaes17/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rahulaes17/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rahulaes17/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/Rahulaes17/DSA/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Rahulaes17/DSA/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/Rahulaes17/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Rahulaes17/DSA/tree/master/0905-sort-array-by-parity) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rahulaes17/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rahulaes17/DSA/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/Rahulaes17/DSA/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Rahulaes17/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Rahulaes17/DSA/tree/master/1051-height-checker) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Rahulaes17/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Rahulaes17/DSA/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -104,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahulaes17/DSA/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Rahulaes17/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
