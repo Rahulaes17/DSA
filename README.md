@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rahulaes17/DSA/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/Rahulaes17/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Rahulaes17/DSA/tree/master/0905-sort-array-by-parity) |
+| [0932-beautiful-array](https://github.com/Rahulaes17/DSA/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rahulaes17/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Rahulaes17/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Rahulaes17/DSA/tree/master/1089-duplicate-zeros) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Rahulaes17/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rahulaes17/DSA/tree/master/0189-rotate-array) |
+| [0932-beautiful-array](https://github.com/Rahulaes17/DSA/tree/master/0932-beautiful-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rahulaes17/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rahulaes17/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahulaes17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Rahulaes17/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rahulaes17/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0932-beautiful-array](https://github.com/Rahulaes17/DSA/tree/master/0932-beautiful-array) |
 ## Counting
 |  |
 | ------- |
